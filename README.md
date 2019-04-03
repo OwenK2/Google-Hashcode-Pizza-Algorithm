@@ -9,4 +9,4 @@ $ ./dist/pizza
 ```
 
 ## Screenshot
-[!Screenshot] (./screenshot.png)
+![Screenshot](./screenshot.png?raw=true "Screenshot")
